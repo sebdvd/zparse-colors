@@ -49,6 +49,5 @@
   },
   "bugs": {
     "url": "https://github.com/radix-ui/colors/issues"
-  },
-  "packageManager": "pnpm@9.15.4"
+  }
 }
